@@ -13,7 +13,7 @@
 
 ✔ 🌱: I’m currently **ALX student**. 🧠💻🤖<br>
 ✔ 🤔: I’m looking for help with anything I am currently learning! 😅<br>
-✔ ⚡  Fun fact : *I Always try to learn something new and then sleep till it stores in my brain* 😎<br><br><br><br>
+✔ ⚡  Fun fact : *I Always try to learn something new and then sleep till it stores in my brain* 😎<br><br>
   
 ### Connect with me:
 <p align="left">
@@ -22,7 +22,7 @@
 </p>
 
 
-<br><br><br>
+<br><br>
 
 ## 🛠️ My Skills
 -------------------
