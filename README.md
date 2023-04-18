@@ -80,6 +80,7 @@
 ### 🔥 Streak Stats
 
  <p align="center">
-<img  src="https://github-readme-streak-stats.herokuapp.com?user=candely001&theme=tokyonight_duo&hide_border=true"
-</p>
+ <img  src="https://github-readme-streak-stats.herokuapp.com?user=candely001&theme=tokyonight_duo&hide_border=true"
+ </p>
+  
 ![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
