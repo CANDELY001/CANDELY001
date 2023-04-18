@@ -11,8 +11,6 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; About Me
 
 
-
-✔ 🔭: I’m currently working on many small ML projects.<br>
 ✔ 🌱: I’m currently **ALX student**. 🧠💻🤖<br>
 ✔ 🤔: I’m looking for help with anything I am currently learning! 😅<br>
 ✔ ⚡  Fun fact : *I Always try to learn something new and then sleep till it stores in my brain* 😎<br><br><br><br>
@@ -84,5 +82,4 @@
  </p>
   
 ### 🐍 Don't Let The Snake Eating Your Contributions Graph
-
 ![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
