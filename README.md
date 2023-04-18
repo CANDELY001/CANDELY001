@@ -15,8 +15,6 @@
 ✔ 🤔: I’m looking for help with anything I am currently learning! 😅<br>
 ✔ ⚡  Fun fact : *I Always try to learn something new and then sleep till it stores in my brain* 😎<br><br><br><br>
   
-
-
 ### Connect with me:
 <p align="left">
 <a href="https://twitter.com/mesbahisharifac" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mesbahisharifac" height="30" width="40" /></a>
