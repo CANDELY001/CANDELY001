@@ -1,2 +1,1 @@
-
-<img src="[[https://readme-typing-svg.demolab.com?font=Fira+Code&size=31&pause=1000&color=ffffff&width=435&lines=Hi%F0%9F%91%8B%2C+I'm+Candely;Welcome+to+my+Github+%F0%9F%A4%8D](https://media.wired.com/photos/593221df52d99d6b984dcdc5/master/w_1600%2Cc_limit/Baby-giphy-3.gif)https://media.wired.com/photos/593221df52d99d6b984dcdc5/master/w_1600%2Cc_limit/Baby-giphy-3.gif](https://media.wired.com/photos/593221df52d99d6b984dcdc5/master/w_1600%2Cc_limit/Baby-giphy-3.gif)https://media.wired.com/photos/593221df52d99d6b984dcdc5/master/w_1600%2Cc_limit/Baby-giphy-3.gif" alt="Typing SVG" />
+<img src="https://media.wired.com/photos/593221df52d99d6b984dcdc5/master/w_1600%2Cc_limit/Baby-giphy-3.gif" alt="GIF Preview">
